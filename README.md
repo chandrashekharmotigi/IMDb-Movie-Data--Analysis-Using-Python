@@ -27,7 +27,7 @@ The following questions were answered during the analysis:
 11. The correlation between rating and revenue.
 12. The number of action movies in the dataset.
 
-## 🎓 Conclusion
+## 🎓 Conclusion 
 The analysis of the "IMDB-Movie-Data" dataset provided valuable insights into the characteristics of high-rated movies on IMDB. The findings from this project can be used to understand what factors contribute to a movie's success and can guide future movie production decisions.
 
 Please note that this is a high-level summary of the project report. For detailed code, visualizations, and interpretations, please refer to the full project report and code files.
